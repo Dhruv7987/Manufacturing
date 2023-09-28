@@ -29,5 +29,7 @@ class ProductionCreateController extends Controller
         ]);
 
         dd($production);
+
+        // check production
     }
 }
